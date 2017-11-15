@@ -29,7 +29,7 @@ public class GUIPanel extends JPanel
 	}
 	
 	/**
-	 * Used to add all components to the screen and install a layoumanager.
+	 * Used to add all components to the screen and install a layout manager.
 	 * Also set color :d
 	 */
 	
